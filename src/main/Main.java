@@ -6,7 +6,7 @@ public class Main {
 
 	public static void main(String[] args) {
 	
-		JFrame windown = new JFrame("Tetris");
+		JFrame windown = new JFrame("Tetris 2.0");
 		windown.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		windown.setResizable(false);
 		GamePanel gp = new GamePanel();
